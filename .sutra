@@ -1,0 +1,11 @@
+REPOSITORY_URL = https://github.com/Harikesh-14/CurrencyConverter-React.git
+BRANCH_NAME = main
+
+[STYLE]
+USES_CONVENTIONAL = true
+TONE = imperative
+DETAIL_LEVEL = moderate
+
+[ANALYSIS]
+ENABLE_PROGRESS_ANALYSIS = true
+CACHE_ANALYSIS = false
